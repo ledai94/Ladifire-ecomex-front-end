@@ -1,0 +1,29 @@
+- Mỗi một file design sẽ dựa vào filename để tạo ra 1 mã sku gốc. Do đó các file design không được trùng tên file. Từ sku gốc này thì mỗi store sẽ tự có 1 bộ sku con riêng. Ví dụ 1 mẫu đó bạn up lên 10 store thì cũng sẽ có 10 cái sku con khác nhau, để khi upload feed lên google shopping sẽ không bị AI của google nhận dạng là spam cùng 1 sản phẩm. Cái này rất quan trọng khi chạy google shopping, vì khi bị xác định spam hay sku trùng với sản phẩm trong GMC đã die thì dễ bị quét lại. Tuy nhiên sku con khác nhau nhưng khi fulfil thì sẽ vẫn biết sku gốc là design nào để fulfil đúng design.
+- Ẩn product title cho Paypal khi chạy TM để hạn chế die Paypal. Multi Paypal, Stripe để có thể tự động đổi paypal hoặc stripe khác nhau cho store, dùng để nuôi nhiều account payment và chia nhỏ doanh thu nhằm hạn chế rủi ro.
+- Báo order mới của các store liên tục qua Telegram.
+- Quản lý order và fulfil bằng hệ thống quản lý riêng.
+
+https://teespring.com/
+https://teechip.com/
+https://teetik.com/
+https://www.spreadshirt.com/
+
+https://tadprint.com/admin
+User: master
+Pass: tadprint1@#$
+
+Tool4tee Freshdesk	https://toolfortee.freshdesk.com/register/FrXb9MH2NXAPkGRfxA9
+acc: anhnt50.mmo@gmail.com
+pass: toolcommerce1@#
+License:
+
+ 5f3a9de47432c
+
+Link download:
+
+Woo Setup Suite: https://drive.google.com/file/d/1e-8_i2H4OoG8sOiG_AoPfta57MEetWeo/view?usp=sharing
+
+Sample Products: https://drive.google.com/file/d/19QsZgfSH65ax4yxTrdwS_nF30gOxVGi1/view?usp=sharing
+
+Xin cám ơn vì đã tin tưởng sử dụng hệ thống bên mình.
+
